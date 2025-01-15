@@ -1,2 +1,2 @@
 # movie_recommendation_system
-hahaa
+this is movie recommendation system using collaborative(knn) and content filtering 
